@@ -1,0 +1,51 @@
+[
+  {
+    "name": "IEEE SSIT",
+    "image_src": "/logo_ieee_ssit.png",
+    "width": 340,
+    "height": 135,
+    "display_width": "13rem"
+  },
+  {
+    "name": "IIITD",
+    "image_src": "/logo_iiitd.jpg",
+    "width": 1400,
+    "height": 800,
+    "display_width": "11rem"
+  },
+  {
+      "name": "UNSW",
+      "image_src": "/CSE.jpg",
+      "width": 1280,
+      "height": 342,
+      "display_width": "20rem"
+  },
+  {
+      "name": "Thapar",
+      "image_src": "/logo-ft.png",
+      "width": 240,
+      "height": 130,
+      "display_width": "10rem"
+  },
+  {
+    "name": "CyberPeace",
+    "image_src": "/CyberPeace.png",
+    "width": 1200,
+    "height": 244,
+    "display_width": "16rem"
+  },
+  {
+    "name": "DST-Purse",
+    "image_src": "/DST-Blue.jpg",
+    "width": 1200,
+    "height": 344,
+    "display_width": "16rem"
+  },
+  {
+    "name": "Center of Artificial Intelligence",
+    "image_src": "/CAI-logo.jpg",
+    "width": 340,
+    "height": 135,
+    "display_width": "13rem"
+  }
+]

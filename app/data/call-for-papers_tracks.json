@@ -1,0 +1,131 @@
+{
+  "aic_track": {
+    "name": "Artificial Intelligence and Cybersecurity",
+    "topics": [
+      "Emerging cybersecurity threats due to Generative AI",
+      "Defensive and adversarial approaches using LLMs",
+      "Deepfake and misinformation detection",
+      "Machine learning for Cybersecurity",
+      "Applications of AI and Cybersecurity",
+      "Unfairness in Synthetic Data Generation Tools",
+      "Ethical Machine Unlearning",
+      "LLMs and Biasness"
+    ]
+  },
+  "sum_track": {
+    "name": "Security, Usability and Measurement",
+    "topics": [
+      "Field studies of security or privacy technology deployment",
+      "Usability evaluations of new or existing security or privacy tools/features",
+      "Security testing of new or existing usability features",
+      "Longitudinal studies of deployed security or privacy features",
+      "Studies of administrators or developers and support for security and privacy",
+      "Organizational policy or procurement decisions and their impact on security and privacy",
+      "Lessons learned from the deployment and use of usable privacy and security features",
+      "Foundational principles of usable security or privacy",
+      "Ethical, psychological, sociological, or anthropological aspects of usable security and privacy",
+      "Usable security and privacy implications/solutions for specific domains (e.g., IoT, medical, vulnerable populations)",
+      "Consumer perceptions of online privacy",
+      "Security and Privacy Education",
+      "Improving the adoption of security technologies"
+    ]
+  },
+  "sri_track": {
+    "name": "Security of Critical Infrastructure",
+    "topics": [
+      "IT / OT Interdependencies and cascading effects in critical infrastructure",
+      "Critical infrastructure resilience",
+      "Software safety and reliability",
+      "Risk mitigation and management",
+      "Regulations, best practices and standards",
+      "Incident management and threat mitigation",
+      "Vulnerability assessment",
+      "Malware analysis and intrusion detection",
+      "Firmware security",
+      "Hardware security and side channel attacks",
+      "Asset management and protection",
+      "Defence in-depth security",
+      "Data privacy and securing data sharing",
+      "Cryptography to secure ICS/OT assets",
+      "Operational Resilience risk with a focus on cyber security controls and incident management",
+      "Board cyber control reporting and compliance",
+      "Scam management and prevention",
+      "AI & Critical Infrastructure Security",
+      "Supply chain security",
+      "Quantum and Critical Infrastructure Security"
+    ]
+  },
+  "grc_track": {
+    "name": "Governance, Risk, and Compliance",
+    "topics": [
+      "Cyber governance in the boardroom",
+      "Cyber governance in government",
+      "Regulation of cyber security",
+      "Regulations, best practices and standards",
+      "Board cyber control reporting and compliance",
+      "Operational resilience risk in business",
+      "Operational resilience risk for government",
+      "GRC as a Service",
+      "Managing supply chain",
+      "Managing AI cybersecurity risks"
+    ]
+  },
+  "pt_track": {
+    "name": "Privacy and Trust",
+    "topics": [
+      "Zero-Trust Networking",
+      "Security-as-a-service (SECaaS)",
+      "Security Operations Centre (SoC) Operations & Management",
+      "Surveillance Capitalism and Censorship",
+      "Privacy-preserving data mining techniques",
+      "Privacy Laws and Regulations",
+      "Trust in Online Transactions",
+      "Deidentification attacks"
+    ]
+  },
+  "bcs_track": {
+    "name": "Blockchain and Security",
+    "topics": [
+      "Distributed Consensus & Fault Tolerance Algorithms",
+      "Performance, Scalability & Sustainability Issues",
+      "Blockchain-based Smart Applications & Services",
+      "Security, Privacy, and Trust in Blockchain",
+      "Decentralised Financial Services",
+      "Blockchain for Internet of Things",
+      "Blockchain for Cyber-Physical Systems",
+      "Blockchain and Machine Learning",
+      "Blockchain-Enabled Metaverse Systems",
+      "Blockchain and Digital Twins",
+      "Blockchain Interoperability in Critical Systems",
+      "Decentralised App Development",
+      "Emerging Blockchain Architecture",
+      "Cross-Chain and Off-Chain Technology",
+      "Smart Contracts",
+      "Blockchain in Social Networking",
+      "Blockchain-based Applications and Services",
+      "Attacks and Defences of Blockchain",
+      "Secure access control and Blockchain",
+      "Blockchain in edge and Cloud computing",
+      "Blockchain Integration in Edge and Cloud Computing"
+    ]
+  },
+  "ctt_track": {
+    "name": "Cybersecurity Technologies and Threats",
+    "topics": [
+      "Performance evaluation of Cybersecurity technologies",
+      "Cybersecurity in the era of quantum computing",
+      "Cybersecurity challenges in unconventional ICT domains",
+      "Novel privacy-preserving technology deployment and experience",
+      "Operational Security (OpSec) including learning lessons from practice",
+      "Security of Critical Infrastructure",
+      "Experience in IT/OT Security Integration",
+      "AI and weaponization of Cybersecurity tools",
+      "Ethical usage of AI for enhancing privacy, security, and trust",
+      "Geopolitics and the impact on Security and Trust",
+      "Nth supplier assessment, particularly for manufacturing and ubiquitous devices and applications",
+      "Inherent bias in the recruitment agencies particularly those hindering women’s progress in security roles",
+      "Active threat actors and impacts on national and global security",
+      "Legal and Regulatory Frameworks and Policies in Cybersecurity and Privacy"
+    ]
+  }
+}

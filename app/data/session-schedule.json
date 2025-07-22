@@ -1,0 +1,38 @@
+[
+  { "time": "8:30 - 16:00", "event": "Registration" },
+  { "time": "8:30 - 9:00", "event": "Welcome Coffee" },
+  { "time": "9:00 - 9:15", "event": "**Opening Remarks** - **Prof. Sanjay Jha**, Director of Research and Innovation at School of Computer Science and Engineering UNSW Australia, **Prof. Attila Brungs**, Vice-Chancellor and President at UNSW Australia, **Prof. Stephen Rodda**, Pro Vice-Chancellor Industry and Innovation at UNSW Australia, **Lee Barney**, Chief Information Security Officer at TPG Telecom Australia" },
+  {
+    "time": "9:15 - 9:45",
+    "event": "**Keynote 1:** **Lieutenant General Michelle McGuinness**, National Cyber Security Coordinator at Department of Home Affairs Australia."
+  },
+  {
+    "time": "9:45 - 10:00",
+    "event": "**Keynote 2:** **Giovanni Chiarelli**, Group Chief Technology Officer at TPG Telecom Australia."
+  },
+  { "time": "10:00 - 10:30", "event": "Morning Coffee Break" },
+  {
+    "time": "10:30 - 13:00",
+    "event": "Initiative Presentations (5-10 Mins Per initiative, Hybrid)"
+  },
+  {
+    "time": "12:00 - 13:00",
+    "event": "**Panel 1:** Post-Quantum Cryptography (PQC) Adoption for Communications (Moderator: **Lee Barney**, Chief Information Security Officer at TPG Telecom Australia, Panellists: **Dr. Surya Nepal**, Senior Principal Research Scientist at CSIRO Data61 Australia, **Kiranmai Akidi**, Business Relationship Manager at Tata Consultancy Services Australia, **Rizwan Mahmood**, Chief Technology Officer & Founder at GuardWare Australia)"
+  },
+  { "time": "13:00 - 14:00", "event": "Networking Lunch" },
+  {
+    "time": "14:00 - 15:00",
+    "event": "**Panel 2:** Weaponization of AI and the Digital Arms Race (Moderator: **Prof. Sanjay Jha**, Director of Research and Innovation at School of Computer Science and Engineering UNSW Australia, Panellists: **Richard Searle**, Chief AI Officer at Fortanix United Kingdom, **Stuart Peck**, Head of Attack & Respond at TPG Telecom Australia, **Prof. Ganna Pogrebna**, Executive Director – Artificial Intelligence and Cyber Futures Institute at Charles Sturt University Australia)"
+  },
+  { "time": "15:00 - 15:30", "event": "Afternoon Coffee Break" },
+  {
+    "time": "15:30 - 16:30",
+    "event": "**Panel 3:** Security of Critical Infrastructure (SOCI) (Moderator: **Dr. Amit Chaubey**, National Cyber Security Advisor at Australia India Business Council (AIBC), Panellists: **Prof. Helge Janicke**, Deputy CEO and Research Director at Cyber Security Cooperative Research Centre (CSCRC) Australia, **Dr. Susanne Lloyd-Jones**, CSCRC Post Doctoral Fellow at UNSW Faculty of Law and Justice Australia, **Nick Ellsmore**, Partner – Cyber at Mantel Group Australia)"
+  },
+  {
+    "time": "15:30 - 16:30",
+    "event": "**Panel 4:** Lessons from General Data Protection Regulation (GDPR) and Avoiding Mistakes in Data Privacy Regulation (Moderator: **Kate Carruthers**, Chief Data & Insights Officer at UNSW Australia, Panellists: **Dr. Tatiana Bokareva**, Principal Data Scientist at Teradata Australia, TBC, TBC)"
+  },
+  { "time": "16:30 - 16:45", "event": "Closing Remarks" },
+  { "time": "16:45 - 18:00", "event": "Networking Drinks/ Demo (Sponsored by School of Computer Science and Engineering (CSE) - UNSW Sydney), **Opening Remarks** - **Prof. Julien Epps** and **Prof. Arcot Sowmya**" }
+]

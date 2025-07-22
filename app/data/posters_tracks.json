@@ -1,0 +1,28 @@
+{
+    "poster_track": 
+      {
+        "name": "Poster Track",
+        "topics": [
+          "Large-scale security measurements,", 
+          "Security in web-based applications and services",
+          "Cybercrime defenses and forensics",
+          "Security and Privacy in Social Networks",
+          "Software Security",
+          "Systems Security",
+          "Malware and Unwanted Software",
+          "Phishing and Spam Prevention"
+        ]
+      }
+    ,
+    "doctoral_track": 
+      {
+        "name": "Doctoral Track",
+        "topics": [ 
+          "Zero Trust Security Models: Implementation and Challenges", 
+          "Machine Learning Techniques for Intrusion Detection Systems",
+          "Blockchain Technology for Enhancing Data Integrity and Security"
+        ]
+      }
+    
+  }
+  

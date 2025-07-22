@@ -1,0 +1,568 @@
+{
+  "Group1": {
+    "GeneralChairs": [
+      {
+        "name": "Prof. Sanjay Jha",
+        "organisation": "UNSW Sydney, Australia"
+      },
+      {
+        "name": "Prof. Ranjan Bose",
+        "organisation": "IIIT Delhi, India"
+      }
+    ],
+    "TechnicalProgramCommitteeChairs": [
+      {
+        "name": "Prof. Salil Kanhere",
+        "organisation": "UNSW Sydney, Australia"
+      },
+      {
+        "name": "A/Prof Sambudho Chakravarty",
+        "organisation": "IIIT Delhi, India"
+      }
+    ],
+    "AlAndCybersecurityChairs": [
+      {
+        "name": "Dr. Aditya Joshi",
+        "organisation": "UNSW Sydney, Australia"
+      },
+      {
+        "name": "Dr. Raksha Sharma",
+        "organisation": "IIT Roorkee, India"
+      }
+    ],
+    "SecurityUsabilityAndMeasurementChairs": [
+      {
+        "name": "Dr. Mainack Mondal",
+        "organisation": "IIT Kharagpur, India"
+      },
+      {
+        "name": "A/Prof. Sanchari Das",
+        "organisation": "University of Denver, Colorado, US"
+      }
+    ],
+    "SecurityofCriticalInfrastructureChairs": [
+      {
+        "name": "Dr. Surya Nepal",
+        "organisation": "CSIRO, Australia"
+      },
+      {
+        "name": "Dr. Praveen Gauravaram",
+        "organisation": "Tata Consultancy Services, Australia"
+      }
+    ],
+    "GovernanceRiskAndComplianceChairs": [
+      {
+        "name": "A/Prof. Rob Nicholls",
+        "organisation": "UTS, Australia"
+      },
+      {
+        "name": "Dr. Pawan Anand",
+        "organisation": "The United Service Institution of India"
+      }
+    ],
+    "PrivacyAndTrustChairs": [
+      {
+        "name": "Prof. James Joshi",
+        "organisation": "University of Pittsburgh, USA"
+      },
+      {
+        "name": "Dr. Suranga Seneviratne",
+        "organisation": "University of Sydney, Australia"
+      }
+    ],
+    "BlockchainChairs": [
+      {
+        "name": "Prof. Sandeep Shukla",
+        "organisation": "IIT Kanpur, India"
+      },
+      {
+        "name": "Dr. Shantanu Pal",
+        "organisation": "Deakin University, Australia"
+      }
+    ],
+    "DoctoralColloquiumChairs": [
+      {
+        "name": "Prof. Maninder Singh",
+        "organisation": "Thapar Institute of Engineering and Technology, India"
+      },
+      {
+        "name": "A/Prof Raju Halder",
+        "organisation": "IIT Patna, India"
+      }
+    ],
+    "PosterChairs": [
+      {
+        "name": "Dr Tanmoy Chakraborty",
+        "organisation": "IIT Delhi, India"
+      },
+      {
+        "name": "Dr Hridoy Sankar Dutta",
+        "organisation": "University of Cambridge, UK"
+      }
+    ],
+    "IndustryDayChairs": [
+      {
+        "name": "Prof. Muttukrishnan Rajarajan",
+        "organisation": "City University, UK"
+      },
+      {
+        "name": "Mr. Nikhil Malhotra",
+        "organisation": "Tech Mahindra, India"
+      }
+    ],
+    "PanelChair": [
+      {
+        "name": "Mr. Vineet Kumar",
+        "organisation": "Cyberpeace Foundation, India"
+      }
+    ],
+    "DemoChair": [
+        {
+          "name": "Dr. Alok Nikhil Jha",
+          "organisation": "IIIT Delhi, India"
+        }
+    ],
+    "StudentAwardChair": [
+        {
+        "name": "Dr. Aditya Joshi",
+        "organisation": "UNSW Sydney, Australia"
+      }
+    ],
+    "PublicityChairs": [
+      {
+        "name": "Prof. Rajiv Misra",
+        "organisation": "IIT Patna, India"
+      },
+      {
+        "name": "A/Prof. Ravneet Kaur",
+        "organisation": "Thapar Institute of Engineering and Technology, India"
+      },
+      {
+        "name": "Dr. Shabnam Kasra Kermanshahi",
+        "organisation": "UNSW Sydney, Australia"
+      },
+      {
+        "name": "A/Prof Mosarrat Jahan",
+        "organisation": "Dhaka University, Bangladesh"
+      },
+      {
+        "name": "Dr. Vinay Sachidananda",
+        "organisation": "Nanyang Technological University, Singapore"
+      },
+      {
+        "name": "Brinda Banerjee",
+        "organisation": "CyberPeace Foundation, India"
+      }
+    ],
+    "InternationalAdvisory": [
+      {
+        "name": "Prof. N Asokan",
+        "organisation": "University of Waterloo, Canada"
+      },
+      {
+        "name": "Prof. Ali Ghorbani",
+        "organisation": "UNB, Canada"
+      },
+      {
+        "name": "Prof. Koji Okamura",
+        "organisation": "Kyushu University, Japan"
+      },
+      {
+        "name": "Dr. Jay Pearlman",
+        "organisation": "IEEE SSIT"
+      },
+      {
+        "name": "Prof. Gene Tsudik",
+        "organisation": "UC Irvine, USA"
+      },
+      {
+        "name": "Prof. Kasper Rasmussen",
+        "organisation": "Oxford, UK"
+      }
+    ],
+    "LocalChair": [
+      {
+        "name": "Dr. Rinku Shah",
+        "organisation": "IIIT Delhi, India"
+      }
+    ],
+    "SponsorshipChairs": [
+      {
+        "name": "Prof. Pankaj Vajpayee",
+        "organisation": "IIIT Delhi, India"
+      },
+      {
+        "name": "Prof. Preetam Kumar",
+        "organisation": "IIT Patna, India"
+      }
+    ],
+    "PublicationChair": [
+      {
+        "name": "Dr. Deepak Mishra",
+        "organisation": "UNSW Sydney, Australia"
+      }
+    ],
+    "RegistrationChair": [
+      {
+        "name": "Dr. Ravi Anand",
+        "organisation": "IIIT Delhi, India"
+      }
+    ],
+    "FinanceChair": [
+      {
+        "name": "Mr. Vinod Kumar",
+        "organisation": "IIIT Delhi, India"
+      }
+    ],
+    "WebChair": [
+      {
+        "name": "Dr. Jawad Ahmed",
+        "organisation": "UNSW Sydney, Australia"
+      }
+    ]
+  },
+  "Group2": {
+    "ProgramCommitteeMembers": [
+        {
+            "name": "A/Prof. Abhishek Bichhawat",
+            "organisation": "IIT Gandhinagar, India"
+          },
+        {
+        "name": "Dr. Aditya Ahuja",
+        "organisation": "TCS Research, India"
+      },
+      {
+        "name": "Prof. Agostino Cortesi",
+        "organisation": "Universita' Ca' Foscari di Venezia, Italy"
+      },
+      {
+        "name": "Dr. Amir Javed",
+        "organisation": "Cardiff University, UK"
+      },
+      {
+        "name": "Prof. Anjali Kaushik",
+        "organisation": "Management Development Institute, India"
+      },
+      {
+        "name": "Dr. Anshuman Kalla",
+        "organisation": "Uka Tarsadia University, India"
+      },
+      {
+        "name": "A/Prof. Arun Balaji Buddur",
+        "organisation": "IIIT Delhi, India"
+      },
+      {
+        "name": "Dr. Asanka Sayakkara",
+        "organisation": "University of Colombo School of Computing, Sri Lanka"
+      },
+      {
+        "name": "Prof. Asho Kumar Turuk",
+        "organisation": "National Institute of Technology Rourkela, India"
+      },
+      {
+        "name": "A/Prof. Astitwa Bhargava",
+        "organisation": "National Law Institute University, Bhopal, India"
+      },
+      {
+        "name": "A/Prof. Balaji Palanisamy",
+        "organisation": "University of Pittsburgh, USA"
+      },
+      {
+        "name": "Dr. Bishakh Chandra Ghosh",
+        "organisation": "Indian Institute of Technology, Kharagpur, India"
+      },
+      {
+        "name": "A/Prof. Bruno Zarpelao",
+        "organisation": "State University of Londrina, Brazil"
+      },
+      {
+        "name": "Dr. Bo Wei",
+        "organisation": "Newcastle University, UK"
+      },
+      {
+        "name": "Mr. Chetan Honnenahalli",
+        "organisation": "Meta, USA"
+      },
+      {
+        "name": "Prof. Chitralekha Balamurugan",
+        "organisation": "Pondicherry University, India"
+      },
+      {
+        "name": "Dr. David Nguyen",
+        "organisation": "CSIRO, Australia"
+      },
+      {
+        "name": "A/Prof. Devashish Gosain",
+        "organisation": "IIT Bombay, India"
+      },
+      {
+        "name": "Mr. Dipto Barman",
+        "organisation": "Trinity College Dublin, Ireland"
+      },
+      {
+        "name": "Dr. Geeta Yadav",
+        "organisation": "IIT Ropar, India"
+      },
+      {
+        "name": "Prof. Gopal Tadepalli",
+        "organisation": "Anna University, India"
+      },
+      {
+        "name": "Dr. Gowri Sankar Ramachandran",
+        "organisation": "Queensland University of Technology, Australia"
+      },
+      {
+        "name": "Dr. Hammond Pearce",
+        "organisation": "UNSW Sydney, Australia"
+      },
+      {
+        "name": "Dr. Hassan Habibi Gharakheili",
+        "organisation": "UNSW Sydney, Australia"
+      },
+      {
+        "name": "Prof. Helge Janicke",
+        "organisation": "Edith Cowan University, Australia"
+      },
+      {
+        "name": "Dr. Herath Bandara",
+        "organisation": "CSIRO, Australia"
+      },
+      {
+        "name": "Dr. Hitesh Tewari",
+        "organisation": "Trinity College Dublin, Ireland"
+      },
+      {
+        "name": "Dr. Jan Pennekamp",
+        "organisation": "RWTH Aachen University, Germany"
+      },
+      {
+        "name": "Dr. Jasleen Kaur",
+        "organisation": "MMDU, India"
+      },
+      {
+        "name": "Dr. Jonathan Heiss",
+        "organisation": "TU Berlin, Germany"
+      },
+      {
+        "name": "Dr. Kai Li",
+        "organisation": "University of Cambridge, UK"
+      },
+      {
+        "name": "Dr. Kemal Akkaya",
+        "organisation": "Florida International University, USA"
+      },
+      {
+        "name": "A/Prof. Leonie Simpson",
+        "organisation": "Queensland University of Technology, Australia"
+      },
+      {
+        "name": "Prof. Lynne Coventry",
+        "organisation": "Abertay University, UK"
+      },
+      {
+        "name": "A/Prof. Madhusanka Liyanage",
+        "organisation": "University College Dublin, Ireland"
+      },
+      {
+        "name": "Prof. Mahesh Tripunitara",
+        "organisation": "University of Waterloo, Canada"
+      },
+      {
+        "name": "A/Prof. Manmeet Singh",
+        "organisation": "BGSB University, India"
+      },
+      {
+        "name": "Mr. Maxime Veit",
+        "organisation": "Karlsruhe Institute of Technology, Germany"
+      },
+      {
+        "name": "A/Prof. Mosarrat Jahan",
+        "organisation": "University of Dhaka, Bangladesh"
+      },
+      {
+        "name": "Prof. Mosaddek Hossain Kamal Tushar",
+        "organisation": "University of Dhaka, Bangladesh"
+      },
+      {
+        "name": "Dr. Muhammad Ejaz Ahmed",
+        "organisation": "CSIRO, Australia"
+      },
+      {
+        "name": "Dr. Muhammad Ikram",
+        "organisation": "Macquarie University, Australia"
+      },
+      {
+        "name": "Dr. Nazatul Sultan",
+        "organisation": "CSIRO, Australia"
+      },
+      {
+        "name": "A/Prof. Neeraj Singh",
+        "organisation": "INPT-ENSEEIHT / IRIT, University of Toulouse, France"
+      },
+      {
+        "name": "A/Prof. Neetesh Saxena",
+        "organisation": "Cardiff University, UK"
+      },
+      {
+        "name": "Prof. Neminath Hubballi",
+        "organisation": "IIT Indore, India"
+      },
+      {
+        "name": "A/Prof. Nitin Auluck",
+        "organisation": "Indian Institute of Technology, Ropar, India"
+      },
+      {
+        "name": "A/Prof. Ori Rottenstreich",
+        "organisation": "Technion, Israel"
+      },
+      {
+        "name": "Dr. Pathum Chamikara Mahawaga Arachchige",
+        "organisation": "CSIRO, Australia"
+      },
+      {
+        "name": "Dr. Partha Das Chowdhury",
+        "organisation": "University of Bristol, UK"
+      },
+      {
+        "name": "A/Prof. Pietro Ferrara",
+        "organisation": "Ca'Foscari University of Venice, Italy"
+      },
+      {
+        "name": "Dr. Piyush Kumar Sharma",
+        "organisation": "University of Michigan, USA"
+      },
+      {
+        "name": "Dr. Quazi Mamun",
+        "organisation": "Charles Sturt University, Australia"
+      },
+      {
+        "name": "Dr. Rafiqul Islam",
+        "organisation": "Charles Sturt University, Australia"
+      },
+      {
+        "name": "Dr. Rahat Masood",
+        "organisation": "UNSW Sydney, Australia"
+      },
+      {
+        "name": "Dr. Rahul Chatterjee",
+        "organisation": "University of Wisconsin-Madison, USA"
+      },
+      {
+        "name": "A/Prof. Rajib Ranjan Maiti",
+        "organisation": "BITS-Pilani, Hyderabad, India"
+      },
+      {
+        "name": "A/Prof. Roben Castagna Lunardi",
+        "organisation": "IFRS, Brazil"
+      },
+      {
+        "name": "Dr. Rizka Purwanto",
+        "organisation": "Monash University, Indonesia"
+      },
+      {
+        "name": "Dr. Roman Matzutt",
+        "organisation": "Fraunhofer FIT, Germany"
+      },
+      {
+        "name": "Dr. Sachin Lodha",
+        "organisation": "Tata Consultancy Services, India"
+      },
+      {
+        "name": "Dr. Samuel Karumba",
+        "organisation": "CSIRO, Australia"
+      },
+      {
+        "name": "A/Prof. Sandip Chakraborty",
+        "organisation": "Indian Institute of Technology Kharagpur, India"
+      },
+      {
+        "name": "A/Prof. Sangram Ray",
+        "organisation": "National Institute of Technology Sikkim, India"
+      },
+      {
+        "name": "A/Prof. Sanmeet Kaur",
+        "organisation": "Eastern Washington University, USA"
+      },
+      {
+        "name": "A/Prof. Shahzaib Tahir",
+        "organisation": "City University of London, UK"
+      },
+      {
+        "name": "Dr. Shreyas Srinivasa",
+        "organisation": "Aalborg University, Denmark"
+      },
+      {
+        "name": "Dr. Sidra Malik",
+        "organisation": "CSIRO, Australia"
+      },
+      {
+        "name": "A/Prof. Sk Subidh Ali",
+        "organisation": "IIT Bhilai, India"
+      },
+      {
+        "name": "Ms. Smirity Kaushik",
+        "organisation": "University of Illinois, Urbana-Champaign, USA"
+      },
+      {
+        "name": "Prof. Somnath Tripathi",
+        "organisation": "IIT Patna, India"
+      }, 
+      {
+        "name": "Mr. Subhajit Bandopadhyay",
+        "organisation": "Huawei Munich Research Centre, Germany"
+      },
+      {
+        "name": "A/Prof. Subhra Mazumdar",
+        "organisation": "Indian Institute of Technology Indore, India"
+      },
+      {
+        "name": "A/Prof. Suchetana Chakraborty",
+        "organisation": "IIT Jodhpur, India"
+      },
+      {
+        "name": "Dr. Sujit Biswas",
+        "organisation": "City University of London, UK"
+      }, 
+      {
+        "name": "Dr. Sukhpal Singh Gill",
+        "organisation": "Queen Mary University of London, UK"
+      },
+      {
+        "name": "Dr. Thilini Dahanayaka",
+        "organisation": "University of Sydney, Australia"
+      },
+      {
+        "name": "Dr. Thilina Weerasinghe",
+        "organisation": "University of Ruhuna, Sri Lanka"
+      },
+      {
+        "name": "Prof. Venkataramana Badarla",
+        "organisation": "IIT Tirupati, India"
+      },
+      {
+        "name": "A/Prof. Venkatesan S",
+        "organisation": "IIIT Alahabad, India"
+      },
+      {
+        "name": "Mr. Viet Anh Vu",
+        "organisation": "University of Cambridge, UK"
+      },
+      {
+        "name": "Dr. Viet  Vo",
+        "organisation": "Swinburne University of Technology, Australia"
+      },
+      {
+        "name": "Dr. Vimal Kumar",
+        "organisation": "University of Waikato, New Zealand"
+      },
+      {
+        "name": "A/Prof. Vivek Chaturvedi",
+        "organisation": "Indian Institute of Technology Palakkad, India"
+      },
+      {
+        "name": "Dr. Yogachandran Rahulamathavan",
+        "organisation": "Loughborough University, UK"
+      }
+    ]
+  }
+}

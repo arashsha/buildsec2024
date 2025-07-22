@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Lieutenant General Michelle McGuinness",
+        "title": "National Cyber Security Coordinator",
+        "organization": "Department of Home Affairs Australia",
+        "bio": "Lieutenant General Michelle McGuinness, CSC was appointed as Australia’s National Cyber Security Coordinator (the Coordinator) on 26 February 2024. As the Coordinator, LTGEN McGuinness leads national cyber security policy, the coordination of responses to major cyber incidents, whole of government cyber incident preparedness efforts, and the strengthening of Commonwealth cyber security capability. LTGEN McGuinness has served in the Australian Defence Force for 30 years in a range of tactical, operational, and strategic roles in Australia and internationally.",
+        "image": "/Michelle.jpeg"
+    },
+    {
+        "name": "Giovanni Chiarelli",
+        "title": "Group Chief Technology Officer",
+        "organization": "TPG Telecom Australia",
+        "bio": "Giovanni joined TPG Telecom as Chief Technology Officer in January 2022. He has responsibility for mobile and fixed networks, information technology and digital. His previous experience includes Chief Technology & Information Officer at MTN South Africa, Chief Technology Officer at Vodafone Romania and Chief Information Officer at Telecom Italia. Giovanni holds a Master of Engineering and Master of Business Administration.",
+        "image": "/Giovanni.jpg"
+    },
+    {
+        "name": "Prof. Attila Brungs",
+        "title": "Vice-Chancellor and President",
+        "organization": "UNSW Australia",
+        "bio": "Professor Brungs commenced his appointment on 31 January 2022, joining UNSW from his position as Vice-Chancellor and President of University of Technology Sydney (UTS) (2014 – 2021). He was Deputy Vice-Chancellor and Vice-President (Research), UTS (2009 – 2014). In November 2021, Professor Brungs was appointed Emeritus Professor and Emeritus Vice-Chancellor, UTS. He is a distinguished academic and higher education leader with extensive experience in the government and corporate sectors.",
+        "image": "/Attila.jpeg"
+    },
+    {
+        "name": "Prof. Stephen Rodda",
+        "title": "Pro Vice-Chancellor Industry and Innovation",
+        "organization": "UNSW Australia",
+        "bio": "Professor Stephen is responsible for providing strategic leadership across all facets of UNSW’s industry engagement, knowledge transfer, business development and commercialisation, and oversight of the Entrepreneurial Campus. Stephen’s professional career has focused on technology commercialisation, corporate governance, executive leadership and investment portfolio management. He’s played an active role in supporting hundreds of technology licensing deals, the formation and financing of dozens of companies and securing well in excess of $500 million in investments, grants and other funding.",
+        "image": "/Stephen.jpg"
+    },
+    {
+        "name": "Prof. Sanjay Jha",
+        "title": "Director of Research and Innovation",
+        "organization": "UNSW Australia",
+        "bio": "Sanjay K. Jha is a Professor and Director of Research and Innovation at the School of Computer Science and Engineering, UNSW Australia, and leads UNSW in the Cybersecurity Cooperative Research Centre. His research focuses on using cutting-edge AI techniques to combat cyber threats. His areas of interest include Combining AI and network security for improved defenses,  Generative AI for voice cloning,  Applying AI to identify phishing scams and malware and leveraging wireless signals for activity detection. Prof Jha has s successful track record in building and mentoring high-performing teams of researchers who can work closely and integrate with industry partners.",
+        "image": "/sanjay.jpg"
+    }
+]
